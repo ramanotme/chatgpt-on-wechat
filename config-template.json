@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "YOUR API KEY",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "",
   "single_chat_prefix": [
@@ -11,7 +11,7 @@
     "@bot"
   ],
   "group_name_white_list": [
-    "ChatGPT测试群",
+    "12345",
     "ChatGPT测试群2"
   ],
   "group_chat_in_one_session": [
